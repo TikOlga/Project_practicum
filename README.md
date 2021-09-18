@@ -1,6 +1,6 @@
 # Проекты выполненные во время обучения по направлению "Аналитик данных"
 ## Принятие решений на основе данных. Приоритизация гипотез, A/B-тест
-[AB-test](https://github.com/TikOlga/Project_practicum/tree/main/AB-test)
+[AB-test](https://github.com/TikOlga/Project_practicum/blob/main/AB-test.ipynb)
 
 Задача: увеличение выручки интернет - магазина, на основе предоставленных данных.  
 
@@ -24,7 +24,7 @@
 
 
 ## Анализ клиентов регионального банка.
-[Bank_clients](https://github.com/TikOlga/Project_practicum/tree/main/Bank_clients)
+[Bank_clients](https://github.com/TikOlga/Project_practicum/blob/main/bank_clients.ipynb)
 
 Задача: выделить портрет клиентов, которые склонны уходить.
 
@@ -42,7 +42,7 @@
 
 
 ## Анализ бизнес-показателей.
-[Business_indicators](https://github.com/TikOlga/Project_practicum/tree/main/Business_indicators)
+[Business_indicators](https://github.com/TikOlga/Project_practicum/blob/main/business_indicators.ipynb)
 
 Задача: помочь маркетологам снизить расходы - отказаться от невыгодных источников трафика и перераспределить бюджет. 
 
