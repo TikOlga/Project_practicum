@@ -24,6 +24,7 @@
 
 
 ## Анализ клиентов регионального банка.
+[Bank_clients](https://github.com/TikOlga/Project_practicum/tree/main/Bank_clients)
 
 Задача: выделить портрет клиентов, которые склонны уходить.
 
@@ -41,6 +42,7 @@
 
 
 ## Анализ бизнес-показателей.
+[Business_indicators](https://github.com/TikOlga/Project_practicum/tree/main/Business_indicators)
 
 Задача: Помочь маркетологам снизить расходы - отказаться от невыгодных источников трафика и перераспределить бюджет. 
 
